@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpva-\.android\build-cache\bcf0f313fa880a5a799e50d8113f41cfd4234206\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="966ec88908ef69d47cf4f5c53ee169bc2d8ba981">
+        <dex dex="C:\Users\jpva-\AndroidStudioProjects\CodigoQRUI\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03fbdffb6e3778c1483c1a9eea1583e6c4769e30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpva-\AndroidStudioProjects\CodigoQRUI\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\jpva-\AndroidStudioProjects\CodigoQRUI\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9ea01ecd138c7f97dc6ae86aa3ce6e845c3ffe66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jpva-\AndroidStudioProjects\CodigoQRUI\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cdcc2f2fb16b5ea4b569383c5c1780f9bc691d0d">
+        <dex dex="C:\Users\jpva-\AndroidStudioProjects\CodigoQRUI\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8a7c533f39e09c8cbf0ebf8b20442db7a628c6f6\classes.dex" />
+    </item>
+
+</items>
